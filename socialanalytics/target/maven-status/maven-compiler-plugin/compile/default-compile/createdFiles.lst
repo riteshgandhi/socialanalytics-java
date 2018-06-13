@@ -1,0 +1,5 @@
+com\socialanalytics\api\controller\TwitterController.class
+com\socialanalytics\api\model\TimelineResponse.class
+com\socialanalytics\api\configuration\CORSFilter.class
+com\socialanalytics\api\configuration\TwitterConfiguration.class
+com\socialanalytics\api\configuration\TwitterInitializer.class
