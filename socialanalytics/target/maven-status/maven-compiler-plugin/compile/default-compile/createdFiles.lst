@@ -1,5 +1,14 @@
-com\socialanalytics\api\controller\TwitterController.class
+com\socialanalytics\api\model\Timeline$1.class
+com\socialanalytics\api\model\TwitterUser.class
 com\socialanalytics\api\model\TimelineResponse.class
-com\socialanalytics\api\configuration\CORSFilter.class
+com\socialanalytics\api\model\TwitterBase$TimelineFunction.class
+com\socialanalytics\api\model\TwitterAnalytics.class
+com\socialanalytics\api\model\TwitterBase.class
+com\socialanalytics\api\model\Timeline.class
 com\socialanalytics\api\configuration\TwitterConfiguration.class
+com\socialanalytics\api\model\TwitterBase$UserFunction.class
+com\socialanalytics\api\model\TwitterUser$1.class
+com\socialanalytics\api\controller\TwitterController.class
+com\socialanalytics\api\configuration\CORSFilter.class
 com\socialanalytics\api\configuration\TwitterInitializer.class
+com\socialanalytics\api\model\TwitterBase$TwitterFunction.class
